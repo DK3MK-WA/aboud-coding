@@ -1,5 +1,5 @@
 function isCoding(string) {
-	return string === "dark man"
+	return string === "DK3MK"
 }
 
 module.exports = isCoding
