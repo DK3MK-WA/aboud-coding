@@ -1,12 +1,17 @@
 {
   "name": "aboud-coding",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DK3MK-WA/aboud-coding.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "dark man",
   "license": "ISC",
-  "description": ""
+  "description": "API",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+  }
 }
