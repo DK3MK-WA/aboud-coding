@@ -1,17 +1,29 @@
 {
   "name": "aboud-coding",
-  "version": "1.0.4",
-  "main": "index.js",
+  "version": "1.0.9",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/DK3MK-WA/aboud-coding.git"
   },
-  "keywords": [],
+  "keywords": [
+    "pinterest"
+  ],
   "author": "dark man",
   "license": "ISC",
   "description": "API",
   "dependencies": {
-    "axios": "^1.6.2",
+    "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }

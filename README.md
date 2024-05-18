@@ -12,11 +12,11 @@ npm install aboud-coding
 
 ## Usage
 ```bash
-import search from "dl-pinterest";
+const { pinterest } = require("aboud-coding");
 
-async function main(){
-	const data = await search("wallpaper 4k anime");
-	console.log(data);
-}
-main()
+pinterest('supra').then(images => {
+    console.log(images);
+}).catch(error => {
+    console.error(error);
+});
 ```
