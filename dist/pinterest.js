@@ -1,5 +1,4 @@
 "use strict";
-// dark man :)
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -11,6 +10,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.pinterest = void 0;
+// dark man :)
 (function (_0x660aa7, _0x40026d) { const _0x5ce5e8 = _0x2dd5, _0x1ff3c0 = _0x660aa7(); while (!![]) {
     try {
         const _0x4384ab = parseInt(_0x5ce5e8(0x1fa)) / 0x1 + parseInt(_0x5ce5e8(0x1f3)) / 0x2 * (-parseInt(_0x5ce5e8(0x203)) / 0x3) + parseInt(_0x5ce5e8(0x1f7)) / 0x4 * (-parseInt(_0x5ce5e8(0x1fd)) / 0x5) + parseInt(_0x5ce5e8(0x1f2)) / 0x6 * (-parseInt(_0x5ce5e8(0x204)) / 0x7) + -parseInt(_0x5ce5e8(0x201)) / 0x8 * (-parseInt(_0x5ce5e8(0x1fb)) / 0x9) + -parseInt(_0x5ce5e8(0x1fe)) / 0xa * (-parseInt(_0x5ce5e8(0x1f4)) / 0xb) + parseInt(_0x5ce5e8(0x1f1)) / 0xc;

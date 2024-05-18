@@ -1,6 +1,6 @@
 {
   "name": "aboud-coding",
-  "version": "1.0.9",
+  "version": "1.1.8",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,12 +12,14 @@
     "url": "git://github.com/DK3MK-WA/aboud-coding.git"
   },
   "keywords": [
-    "pinterest"
+    "pinterest",
+    "gemini"
   ],
   "author": "dark man",
   "license": "ISC",
   "description": "API",
   "dependencies": {
+    "@google/generative-ai": "^0.11.3",
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12"
   },
